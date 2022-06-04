@@ -1,5 +1,5 @@
 # esp32_ws2812_iphone_smartBulb
-Control WS2812 Circular RGB LED strips via Iphone Home app
+Control WS2812 Circular RGB LED strips via Iphone Home app; Home Kit
 
 1. Install HomeSpan & FastLED library via Library Manager in Arduino IDE
 2. Connect DIN pin to ESP32 D15 IO along with VCC and GND
